@@ -1,0 +1,3 @@
+/home/zpk/code/opencv_code/perspective_transformation_test/CMakeFiles/ImageShow.dir
+/home/zpk/code/opencv_code/perspective_transformation_test/CMakeFiles/edit_cache.dir
+/home/zpk/code/opencv_code/perspective_transformation_test/CMakeFiles/rebuild_cache.dir
